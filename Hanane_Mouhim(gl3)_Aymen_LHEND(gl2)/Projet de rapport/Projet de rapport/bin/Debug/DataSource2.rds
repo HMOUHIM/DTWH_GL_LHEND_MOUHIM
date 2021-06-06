@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataSource2">
+  <ConnectionProperties>
+    <Extension>OLEDB-MD</Extension>
+    <ConnectString>Data Source=DESKTOP-8NF8KQ5\MSSQLSERVER01;Initial Catalog=LIGHTADVENTUREWORKSDW</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>3b8c45f7-1ddd-422b-8f59-30a93904c0d3</DataSourceID>
+</RptDataSource>
